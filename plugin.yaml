@@ -1,0 +1,6 @@
+plugin:
+    name: 'codecycler.redirecttobackend::lang.plugin.name'
+    description: 'codecycler.redirecttobackend::lang.plugin.description'
+    author: Codecycler
+    icon: oc-icon-arrow-right
+    homepage: ''
